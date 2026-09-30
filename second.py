@@ -6,3 +6,4 @@ for pecahan in daftar_pecahan:
         jumlah = nominal // pecahan
         nominal = nominal % pecahan
         print(f"{jumlah} = uang {pecahan}" )
+        #code written by lyvo
