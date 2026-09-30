@@ -12,3 +12,4 @@ hasil = ""
 for kunci,nilai in frekuensi.items():
     hasil = hasil + kunci + "=" + str(nilai) + ", "
 print(hasil)
+#code written by lyvo
